@@ -1,4 +1,4 @@
-# garmin-forefunner-610
+# garmin-forerunner-610
 various repairs on the garmin forerunner 610
 # disassembly
 1. remove FOUR pins. The pins hold the watchband. I have the nylon band, and the pins that held the strap were separate from the ones that held the hard plastic pieces between the band and watch. Hold the watch firmly. Remove the tapered pins by lightly tapping a metal drift with a hammerish object.
